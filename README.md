@@ -1,6 +1,8 @@
 # Completed CodeAlpha Projects 
 ## Richelle Grace Adarlo | Full Stack Developer Intern | Student ID: CA/DF1/37130
 
+![overview of all 3 projects](graphics/slideshow.png)
+
 ### 01 | Frostline - Simple E-Commerce Store
 - GitHub Repo: https://github.com/richelleadarlo/CodeAlpha_Frostline_Ecommerce_Richelle-Grace-Adarlo
 - Live Site: https://code-alpha-frostline.vercel.app/
