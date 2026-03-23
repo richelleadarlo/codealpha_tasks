@@ -4,6 +4,7 @@
 ![overview of all 3 projects](graphics/slideshow.png)
 
 ### 01 | Frostline - Simple E-Commerce Store
+A full-stack e-commerce web application built with React (TypeScript) on the frontend and Node.js + Express on the backend.
 - GitHub Repo: https://github.com/richelleadarlo/CodeAlpha_Frostline_Ecommerce_Richelle-Grace-Adarlo
 - Live Site: https://code-alpha-frostline.vercel.app/
 
