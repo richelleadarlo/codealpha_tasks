@@ -9,9 +9,11 @@ A full-stack e-commerce web application built with React (TypeScript) on the fro
 - Live Site: https://code-alpha-frostline.vercel.app/
 
 ### 02 | TaskFlow - Project Management Tool
+A full-stack project management app (similar to Trello/Asana) with kanban boards, task management, and real-time updates.
 - GitHub Repo: https://github.com/richelleadarlo/CodeAlpha_TaskFlow_Project-Management-Tool_Richelle-Grace-Adarlo
 - Live Site: https://code-alpha-taskflow.vercel.app/
 
 ### 03 | CollabSpace - Real-time Communication App
+A full-stack real-time communication app (similar to Zoom/Google Meet) with video conferencing, screen sharing, and collaborative tools.
 - GitHub Repo: https://github.com/richelleadarlo/CodeAlpha_CollabSpace_Real-time-Communication_Richelle-Grace-Adarlo
 - Live Site: https://code-alpha-collabspace-communicatio.vercel.app/
